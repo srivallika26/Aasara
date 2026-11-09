@@ -1,0 +1,333 @@
+[
+  {
+    "id": "pm_kisan",
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "name_te": "ప్రధానమంత్రి కిసాన్ సమ్మాన్ నిధి (పీఎం-కిసాన్)",
+    "benefit": "Rs 6,000 per year per eligible landholding farmer family, paid in three equal instalments of Rs 2,000 every four months, directly into the bank account (Direct Benefit Transfer).",
+    "eligibility": [
+      "Landholding farmer family with cultivable land in the family's name (farmers who own no land are not eligible).",
+      "Families in higher-economic-status exclusion categories are not eligible, for example institutional landholders. See the full exclusion list on the official portal.",
+      "Eligible beneficiaries are identified by State/UT governments."
+    ],
+    "documents": [
+      "Aadhaar number",
+      "Bank account details (the benefit is paid only into a bank account)",
+      "Land ownership details as per state land records",
+      "eKYC (OTP-based on the portal, or biometric at a Common Service Centre)"
+    ],
+    "how_to_apply": [
+      "Open the PM-KISAN portal (pmkisan.gov.in) and choose New Farmer Registration, or visit your nearest CSC or agriculture office.",
+      "Enter Aadhaar, bank and land details.",
+      "State officials verify the details.",
+      "Complete eKYC, and check your payment status with 'Know Your Status' on the portal."
+    ],
+    "sources": [
+      {
+        "label": "PM-KISAN official portal",
+        "url": "https://www.pmkisan.gov.in/"
+      },
+      {
+        "label": "myScheme (Government of India)",
+        "url": "https://www.myscheme.gov.in/schemes/pm-kisan"
+      }
+    ],
+    "last_checked": "2026-11-07",
+    "limitations": [
+      "The State/UT government makes the final decision on eligibility.",
+      "Amounts and rules can change. Confirm on the official portal before applying."
+    ],
+    "level": "Central"
+  },
+  {
+    "id": "pmjay",
+    "name": "Ayushman Bharat PM-JAY",
+    "name_te": "ఆయుష్మాన్ భారత్ (పీఎం-జేఏవై)",
+    "benefit": "Cashless hospital treatment cover of up to Rs 5 lakh per family per year for secondary and tertiary care at empanelled public and private hospitals. Citizens aged 70 and above are covered irrespective of income (seniors in families already covered get an additional top-up of up to Rs 5 lakh for themselves).",
+    "eligibility": [
+      "Poor and vulnerable families identified from the SECC 2011 database. You can check this with the 'Am I Eligible' tool.",
+      "All citizens aged 70 years or above."
+    ],
+    "documents": [
+      "Aadhaar card",
+      "Ration card or family identity details"
+    ],
+    "how_to_apply": [
+      "Check eligibility on pmjay.gov.in ('Am I Eligible') or call the helpline 14555.",
+      "Visit the nearest Common Service Centre or an empanelled hospital's Ayushman Mitra with your documents.",
+      "Complete e-KYC verification; the Ayushman card is then generated.",
+      "The card can be checked or downloaded at beneficiary.nha.gov.in."
+    ],
+    "sources": [
+      {
+        "label": "PM-JAY official website",
+        "url": "https://pmjay.gov.in/"
+      },
+      {
+        "label": "PM-JAY beneficiary portal",
+        "url": "https://beneficiary.nha.gov.in/"
+      }
+    ],
+    "last_checked": "2026-11-07",
+    "limitations": [
+      "Eligibility for people under 70 depends on being listed in the official database; this app cannot check that list.",
+      "Covered treatments and hospitals are set by the National Health Authority. Confirm on the official site."
+    ],
+    "level": "Central"
+  },
+  {
+    "id": "pmuy",
+    "name": "PM Ujjwala Yojana (PMUY)",
+    "name_te": "ప్రధానమంత్రి ఉజ్జ్వల యోజన",
+    "benefit": "A deposit-free LPG gas connection in the name of an adult woman of an eligible poor household.",
+    "eligibility": [
+      "Adult woman aged 18 or above.",
+      "No existing LPG connection from any oil marketing company in the same household.",
+      "The household must be poor or in an eligible category, such as SC/ST households, PMAY-Gramin beneficiaries, Antyodaya Anna Yojana (AAY) households, Most Backward Classes, forest dwellers, SECC-listed households, or a poor household by declaration."
+    ],
+    "documents": [
+      "Filled KYC application form with photograph",
+      "Aadhaar of the applicant (the adult woman)",
+      "Aadhaar of adult family members (the ration card helps identify family members)",
+      "Bank account details",
+      "Ration card or proof of the eligible category",
+      "Signed deprivation declaration"
+    ],
+    "how_to_apply": [
+      "Download the KYC form from pmuy.gov.in or collect it from an LPG distributor.",
+      "Fill in the form and attach the documents.",
+      "Submit it to your nearest LPG distributor (or use the new-connection link on the portal).",
+      "The distributor and oil company verify eligibility and then issue the connection."
+    ],
+    "sources": [
+      {
+        "label": "PMUY official website",
+        "url": "https://www.pmuy.gov.in/"
+      },
+      {
+        "label": "PMUY 2.0 eligibility and documents",
+        "url": "https://pmuy.gov.in/ujjwala2.html"
+      }
+    ],
+    "last_checked": "2026-11-07",
+    "limitations": [
+      "The oil marketing company and distributor decide whether the household qualifies.",
+      "Document requirements can vary slightly by state. Confirm with your LPG distributor."
+    ],
+    "level": "Central"
+  },
+  {
+    "id": "ssy",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "name_te": "సుకన్య సమృద్ధి యోజన",
+    "benefit": "A government-backed savings account for a girl child. Deposits of Rs 250 to Rs 1.5 lakh per financial year are allowed. Deposits are made for the first 15 years and the account matures 21 years after opening. The interest rate is notified by the government every quarter.",
+    "eligibility": [
+      "A girl child who is a resident of India and below 10 years of age when the account is opened.",
+      "The account is opened and operated by a parent or legal guardian.",
+      "One account per girl child, and at most two accounts per family (exceptions exist for twins or triplets)."
+    ],
+    "documents": [
+      "Birth certificate of the girl child",
+      "Identity and address proof of the parent or guardian (for example Aadhaar)"
+    ],
+    "how_to_apply": [
+      "Visit a post office or an authorised bank.",
+      "Fill in the Sukanya Samriddhi account opening form.",
+      "Submit the documents and the first deposit (minimum Rs 250)."
+    ],
+    "sources": [
+      {
+        "label": "India Post",
+        "url": "https://www.indiapost.gov.in/"
+      }
+    ],
+    "last_checked": "2026-11-07",
+    "limitations": [
+      "The interest rate changes every quarter. This app does not state a rate; check India Post for the current one.",
+      "Withdrawal and closure rules apply. Ask the post office or bank before opening."
+    ],
+    "level": "Central"
+  },
+  {
+    "id": "apy",
+    "name": "Atal Pension Yojana (APY)",
+    "name_te": "అటల్ పెన్షన్ యోజన",
+    "benefit": "A guaranteed monthly pension of Rs 1,000, 2,000, 3,000, 4,000 or 5,000 (your choice) after age 60. The pension continues to the spouse after the subscriber's death, and the saved amount goes to the nominee after both have died.",
+    "eligibility": [
+      "Indian citizen aged 18 to 40 years.",
+      "Has a savings bank account or a post office savings account.",
+      "From 1 October 2022, any citizen who is or has been an income-tax payer cannot join."
+    ],
+    "documents": [
+      "Aadhaar (for KYC)",
+      "Savings bank or post office account",
+      "Mobile number",
+      "Nominee and spouse details"
+    ],
+    "how_to_apply": [
+      "Go to the bank or post office where you hold a savings account, or use net or mobile banking.",
+      "Fill in the APY registration form and choose your pension amount.",
+      "Allow auto-debit of your monthly, quarterly or half-yearly contribution. The amount depends on your joining age and chosen pension."
+    ],
+    "sources": [
+      {
+        "label": "PFRDA APY FAQs",
+        "url": "https://pfrda.org.in/web/pfrda/w/faqs/atal-pension-yojana"
+      },
+      {
+        "label": "PFRDA",
+        "url": "https://www.pfrda.org.in/"
+      }
+    ],
+    "last_checked": "2026-11-07",
+    "limitations": [
+      "Contributions must continue until age 60, and the bank balance must cover each auto-debit.",
+      "Confirm current rules on the PFRDA site or at your bank before joining."
+    ],
+    "level": "Central"
+  },
+  {
+    "id": "mudra",
+    "level": "Central",
+    "name": "PM MUDRA Yojana (PMMY)",
+    "name_te": "ప్రధానమంత్రి ముద్ర యోజన",
+    "benefit": "Collateral-free loans for small businesses through banks, NBFCs and microfinance institutions. Shishu: up to Rs 50,000. Kishor: above Rs 50,000 to Rs 5 lakh. Tarun: above Rs 5 lakh to Rs 10 lakh. Tarun Plus: above Rs 10 lakh to Rs 20 lakh, for those who repaid an earlier Tarun loan.",
+    "eligibility": [
+      "A non-corporate, non-farm small or micro business: manufacturing, trading, services or allied agricultural activities.",
+      "Both new and existing business units can apply.",
+      "The lender checks the business plan and repayment ability."
+    ],
+    "documents": [
+      "Proof of identity (Aadhaar, PAN, Voter ID, driving licence or passport)",
+      "Proof of residence",
+      "Business proof if you already run one (licence, registration or ownership/address proof)",
+      "Bank statements and a brief business plan for larger loans (the lender decides)"
+    ],
+    "how_to_apply": [
+      "Decide the loan category from the amount you need.",
+      "Apply at a bank, NBFC or microfinance branch, or online through the JanSamarth portal (jansamarth.in).",
+      "The lender verifies documents and sanctions the loan."
+    ],
+    "sources": [
+      {
+        "label": "MUDRA official website",
+        "url": "https://www.mudra.org.in/"
+      },
+      {
+        "label": "JanSamarth portal",
+        "url": "https://www.jansamarth.in/"
+      }
+    ],
+    "last_checked": "2026-11-07",
+    "limitations": [
+      "The lender decides approval, interest rate and fees.",
+      "Loan limits have changed in recent years. Confirm the current limits on the official site."
+    ]
+  },
+  {
+    "id": "aarogyasri",
+    "level": "Telangana",
+    "name": "Rajiv Aarogyasri (Telangana)",
+    "name_te": "రాజీవ్ ఆరోగ్యశ్రీ",
+    "benefit": "Cashless treatment at empanelled hospitals for covered procedures, up to Rs 10 lakh per family per year (raised from Rs 5 lakh). It is package-based, so not every treatment is covered.",
+    "eligibility": [
+      "Telangana resident with a white ration card (Food Security Card).",
+      "Valid Aadhaar and address proof."
+    ],
+    "documents": [
+      "White ration card",
+      "Aadhaar card",
+      "Address proof",
+      "Mobile number"
+    ],
+    "how_to_apply": [
+      "Go to an empanelled hospital or nearby primary health centre with your white ration card and Aadhaar.",
+      "At the hospital's Aarogya Mithra help desk your eligibility is verified.",
+      "Covered treatment is then cashless."
+    ],
+    "sources": [
+      {
+        "label": "Rajiv Aarogyasri Trust",
+        "url": "https://www.rajivaarogyasri.telangana.gov.in/"
+      }
+    ],
+    "verification_note": "Summarised from news reports and general guides, not read from an official portal. Confirm the details at the official site or your local office before relying on them.",
+    "last_checked": "2026-11-07",
+    "limitations": [
+      "Eligibility rules may be extended or changed by the state government.",
+      "Covered procedures and hospitals are set by the Trust."
+    ]
+  },
+  {
+    "id": "aasara_pension",
+    "level": "Telangana",
+    "name": "Aasara / Cheyutha Pensions (Telangana)",
+    "name_te": "ఆసరా / చేయూత పెన్షన్లు (తెలంగాణ)",
+    "benefit": "A monthly pension for eligible poor Telangana residents: old-age, widows, single women, persons with disabilities, weavers, toddy tappers, beedi workers and some patient categories. Reports differ on the current monthly amount, so this app does not state one.",
+    "eligibility": [
+      "Telangana resident from a poor household.",
+      "Old-age pension starts at age 57 (earlier 65).",
+      "Other categories (widow, single woman, disability, weaver and so on) have their own rules."
+    ],
+    "documents": [
+      "Age proof (birth certificate, school certificate or Aadhaar)",
+      "Death certificate of the spouse (for widow pension)",
+      "Disability certificate (for disability pension)",
+      "Aadhaar and bank account details"
+    ],
+    "how_to_apply": [
+      "Apply through your local government office (MPDO or municipal office) or a Mee Seva centre.",
+      "Submit the documents for your category.",
+      "After verification and approval, the pension is credited to the bank account."
+    ],
+    "sources": [
+      {
+        "label": "News report on the age limit change (not an official site)",
+        "url": "https://telanganatoday.com/new-aasara-pensions-bring-cheer-to-many-in-nalgonda"
+      }
+    ],
+    "verification_note": "Summarised from news reports and general guides, not read from an official portal. Confirm the details at the official site or your local office before relying on them. The scheme name and portal have changed over time.",
+    "last_checked": "2026-11-07",
+    "limitations": [
+      "The current monthly amount must be confirmed at your local office.",
+      "Sanction depends on verification by officials."
+    ]
+  },
+  {
+    "id": "gruha_jyothi",
+    "level": "Telangana",
+    "name": "Gruha Jyothi (Telangana)",
+    "name_te": "గృహజ్యోతి",
+    "benefit": "A zero electricity bill for eligible households whose domestic consumption is within 200 units a month. If usage goes above 200 units in a month, the full bill is charged for that month.",
+    "eligibility": [
+      "Telangana household with a white ration card linked to Aadhaar.",
+      "A domestic electricity connection (one per family).",
+      "Monthly consumption within 200 units."
+    ],
+    "documents": [
+      "Aadhaar card",
+      "White ration card",
+      "Electricity bill (service connection number)"
+    ],
+    "how_to_apply": [
+      "Apply at your local government service centre, Mee Seva or the electricity section office.",
+      "The connection is linked to your ration card.",
+      "Check your monthly bill to stay within 200 units."
+    ],
+    "sources": [
+      {
+        "label": "Telangana Today: bill rule above 200 units (news, not official)",
+        "url": "https://telanganatoday.com/gruha-jyothi-scheme-beneficiaries-to-pay-full-bill-if-usage-exceeds-200-units"
+      },
+      {
+        "label": "The News Minute: implementation report (news, not official)",
+        "url": "https://www.thenewsminute.com/telangana/telangana-starts-implementing-gruha-jyothi-scheme"
+      }
+    ],
+    "verification_note": "Summarised from news reports and general guides, not read from an official portal. Confirm the details at the official site or your local office before relying on them.",
+    "last_checked": "2026-11-07",
+    "limitations": [
+      "Commercial connections are not covered.",
+      "Enrolment and rules can change. Confirm with your electricity department office."
+    ]
+  }
+]
